@@ -26,11 +26,11 @@
 - .
 - .
 ## SEM 6:
-
+- [AO 6th Semester Syllabus](https://github.com/shah-krish-p/AO/tree/5bcae40a458a3c71bf96719d41f66768291e5cee/AO-sem_06_%20syllabus)
 -  [Internet of Things](https://github.com/shah-krish-p/AO/tree/main/22679_Internet-Of-Things)
-- .
-- .
-- 
+- [3D Printing](https://github.com/shah-krish-p/AO/tree/5bcae40a458a3c71bf96719d41f66768291e5cee/22681_3D-Printing)
+- [Emerging Trends in Electronics](https://github.com/shah-krish-p/AO/tree/5bcae40a458a3c71bf96719d41f66768291e5cee/22636_Emerging-trends-in-Electronics)
+- [Management](https://github.com/shah-krish-p/AO/tree/5bcae40a458a3c71bf96719d41f66768291e5cee/22509_Management)
 
 # How To Contribute:
 You can contribute notes, papers and resources by opening an issue.
