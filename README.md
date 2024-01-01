@@ -20,6 +20,8 @@
 - [Python Programming](https://github.com/shah-krish-p/AO/tree/57940ba896f049c881e98543ab0f1a06a7e4fdaf/22426_Microcontrollers_Applications)
 - [Advanced Automation Systems](https://github.com/shah-krish-p/AO/tree/57940ba896f049c881e98543ab0f1a06a7e4fdaf/22475_Advanced-Automation-Systems)
 - [Sensors in Automation and Robotics](https://github.com/shah-krish-p/AO/tree/57940ba896f049c881e98543ab0f1a06a7e4fdaf/22477_Sensors-in-Automation_Robotics)
+- [Control Systems and Components](https://github.com/shah-krish-p/AO/tree/f142c2d4961c9b9a66cf5c2ba62b7d8b31bb4938/22476_Control-Systems-Controllers)
+okokok
 ## SEM 5:
 - .
 - .
