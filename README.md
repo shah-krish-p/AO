@@ -16,10 +16,10 @@
 - .
 - .
 ## SEM 4:
-- .
-- .
-- .
-- .
+- [AO 4th Semester Syllabus](https://github.com/shah-krish-p/AO/tree/57940ba896f049c881e98543ab0f1a06a7e4fdaf/AO-sem_04_syllabus)
+- [Python Programming](https://github.com/shah-krish-p/AO/tree/57940ba896f049c881e98543ab0f1a06a7e4fdaf/22426_Microcontrollers_Applications)
+- [Advanced Automation Systems](https://github.com/shah-krish-p/AO/tree/57940ba896f049c881e98543ab0f1a06a7e4fdaf/22475_Advanced-Automation-Systems)
+- [Sensors in Automation and Robotics](https://github.com/shah-krish-p/AO/tree/57940ba896f049c881e98543ab0f1a06a7e4fdaf/22477_Sensors-in-Automation_Robotics)
 ## SEM 5:
 - .
 - .
