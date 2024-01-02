@@ -1,4 +1,12 @@
 # This repo will contain all the notes for Automation and Robotics dept. V.E.S. Polytechnic
+## Contents
+- [Sem 1](https://github.com/shah-krish-p/AO/tree/mayank?tab=readme-ov-file#sem-1)
+- [Sem 2](https://github.com/shah-krish-p/AO/tree/mayank?tab=readme-ov-file#sem-2)
+- [Sem 3](https://github.com/shah-krish-p/AO/tree/mayank?tab=readme-ov-file#sem-3)
+- [Sem 4](https://github.com/shah-krish-p/AO/tree/mayank?tab=readme-ov-file#sem-4)
+- [Sem 5](https://github.com/shah-krish-p/AO/tree/mayank?tab=readme-ov-file#sem-5)
+- [Sem 6](https://github.com/shah-krish-p/AO/tree/mayank?tab=readme-ov-file#sem-6)
+- [How to contribute/Raise an issue](https://github.com/shah-krish-p/AO/tree/mayank?tab=readme-ov-file#how-to-contribute)
 ## SEM 1: 
 - .
 - .
